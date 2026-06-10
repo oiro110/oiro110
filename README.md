@@ -1,4 +1,7 @@
 ## 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚘𝚏 𝕠𝕚𝕣𝕠𝟙𝟙𝟘!
+
+## [![Oiro's GitHub stats](https://oiro110-readme-stats.vercel.app/api?username=oiro110&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages & Tools
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
