@@ -2,8 +2,8 @@
 
 ##
 <p align="center">
-  <img src="https://oiro110-readme-stats.vercel.app/api?username=oiro110&show_icons=true&theme=onedark" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oiro110&theme=onedark" width="49%" />
+  <img src="https://oiro110-readme-stats.vercel.app/api?username=oiro110&show_icons=true&theme=onedark" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oiro110&theme=onedark" width="49%"/>
 </p>
 <p align="center">
   <img src="https://oiro110-readme-stats.vercel.app/api/top-langs/?username=oiro110&layout=compact&theme=onedark"/>
@@ -14,6 +14,17 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+
+### SNS
+<p align="center">
+  <a href="https://x.com/Oiro_room" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Oiro_room?style=for-the-badge&logo=x&logoColor=white&color=000000"/>
+  </a>
+  
+  <a href="https://www.instagram.com/Oiro_room" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-32%20followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
 <!--
 **oiro110/oiro110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
