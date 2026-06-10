@@ -1,10 +1,11 @@
 ## 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚘𝚏 𝕠𝕚𝕣𝕠𝟙𝟙𝟘!
 
 ##
-<p align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 6px; margin-bottom: 16px;">
   <img src="https://oiro110-readme-stats.vercel.app/api?username=oiro110&show_icons=true&theme=onedark"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oiro110&theme=onedark"/>
-  <br/>
+</div>
+<p align="center">
   <img src="https://oiro110-readme-stats.vercel.app/api/top-langs/?username=oiro110&layout=compact&theme=onedark"/>
 </p>
 
