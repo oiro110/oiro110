@@ -1,6 +1,12 @@
 ## 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚝𝚑𝚎 𝚙𝚛𝚘𝚏𝚒𝚕𝚎 𝚘𝚏 𝕠𝕚𝕣𝕠𝟙𝟙𝟘!
 
-## [![Oiro's GitHub stats](https://oiro110-readme-stats.vercel.app/api?username=oiro110&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+##
+<p align="center">
+  <img src="https://oiro110-readme-stats.vercel.app/api?username=oiro110&show_icons=true&theme=onedark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oiro110&theme=onedark"/>
+  <br/>
+  <img src="https://oiro110-readme-stats.vercel.app/api/top-langs/?username=oiro110&layout=compact&theme=onedark"/>
+</p>
 
 ### Languages & Tools
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
