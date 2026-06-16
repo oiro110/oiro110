@@ -19,8 +19,7 @@
 ### SNS
 <p align="center">
   <a href="https://x.com/Oiro_room" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/Oiro_room?style=for-the-badge&logo=x&logoColor=white&color=000000"/>
-  </a>
+    <img src="https://img.shields.io/badge/X-FOLLOW%20%40OIRO__ROOM-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
   
   <a href="https://www.instagram.com/Oiro_room" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-32%20followers-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
